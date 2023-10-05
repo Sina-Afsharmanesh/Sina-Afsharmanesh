@@ -16,10 +16,10 @@ Welcome to my GitHub profile! I'm passionate about crafting efficient, scalable 
 - Microservices Architecture 🌐
 - Concurrency and Performance Optimization ⚡
 
-## My Interests ✨
+## ✨ My Interests
 Apart from coding, I'm a fan of science fiction and cyberpunk and sci-fi themes and genres. also an avid gamer 👾.
 
-## Get in Touch 📫
+## 📫 Get in Touch
 
 Feel free to reach out if you'd like to collaborate or have a tech-related discussion. I'm passionate about what I do and always eager to connect with fellow developers.
 
