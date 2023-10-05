@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about crafting efficient, scalable 
 ## ✨ My Interests
 Apart from coding, I'm a fan of science fiction and cyberpunk and sci-fi themes and genres. also an avid gamer 👾.
 
-## 📫 Get in Touch
+## 📫 Get In Touch
 
 Feel free to reach out if you'd like to collaborate or have a tech-related discussion. I'm passionate about what I do and always eager to connect with fellow developers.
 
