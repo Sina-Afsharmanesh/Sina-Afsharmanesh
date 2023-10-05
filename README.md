@@ -1,6 +1,4 @@
 # Hi, I'm Sina 👋
-
-## About Me
 Welcome to my GitHub profile! I'm passionate about crafting efficient, scalable microservices and exploring cutting-edge technologies. I started my coding journey at the age of 17 when I joined the high school robotics club, where I initially dabbled in C++, and I've been on an exciting coding adventure ever since.
 
 ## 🖥️ My Tech Stack
