@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm passionate about crafting efficient, scalable microservices and exploring cutting-edge technologies. I started my coding journey at the age of 17 when I joined the high school robotics club, where I initially dabbled in C++, and I've been on an exciting coding adventure ever since.
 
 ## 🖥️ My Tech Stack
-- **Languages**: Golang, Rust, C#, JavaScript and TypeScript
+- **Languages**: Golang, Rust, C#, Zig, JavaScript and TypeScript
 - **Web Frameworks**: Nuxt.js, Next.js
 - **Microservices**: Docker, Kubernetes, Podman
 - **Database**: PostgreSQL, MongoDB, Redis
